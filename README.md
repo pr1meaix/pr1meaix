@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, Im Aixin Gabriel Marcera 👋
 
-<!--
-**pr1meaix/pr1meaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Market/Data Analyst interested in turning data into clear business insights and meaningful stories.
 
-Here are some ideas to get you started:
+🔎 Currently workin on: 
+  - Building my data analytics portfolio through practical projects
+  - Completing the Google Data Analytics Professional Certificate
+  - Completing the Unilever Digital Marketing Professional Certificate
+  - Exploring data visualization, digital analytics, GA4, and A/B testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Skills
+Analytics: Microsoft Excel, Google Sheets, SQL, Tableau
+Digital Analytics: SEO, GA4, A/B Testing
+
+📫 Lets connect:
+LinkedIn: https://www.linkedin.com/in/aixin-gabriel-marcera-518828222/
+Email: aixinmarcera@gmail.com
