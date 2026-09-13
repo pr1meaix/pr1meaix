@@ -1,4 +1,4 @@
-## Hi, Im Aixin Gabriel Marcera 👋
+## Hi, I'm Aixin Gabriel Marcera 👋
 
 Aspiring Market/Data Analyst interested in turning data into clear business insights and meaningful stories.
 
