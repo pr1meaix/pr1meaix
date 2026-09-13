@@ -9,9 +9,9 @@ Aspiring Market/Data Analyst interested in turning data into clear business insi
   - Exploring data visualization, digital analytics, GA4, and A/B testing
 
 🛠️ Tools & Skills
-Analytics: Microsoft Excel, Google Sheets, SQL, Tableau
-Digital Analytics: SEO, GA4, A/B Testing
+  - Analytics: Microsoft Excel, Google Sheets, SQL, Tableau
+  - Digital Analytics: SEO, GA4, A/B Testing
 
 📫 Lets connect:
-LinkedIn: https://www.linkedin.com/in/aixin-gabriel-marcera-518828222/
-Email: aixinmarcera@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/aixin-gabriel-marcera-518828222/
+  - Email: aixinmarcera@gmail.com
